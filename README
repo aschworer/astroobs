@@ -4,6 +4,7 @@
 :Website: https://github.com/ceyzeriat/astroobs
 :Author: Guillaume Schworer
 :Version: 1.3.3beta
+:test
 
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
     :target: https://github.com/ceyzeriat/astroobs/blob/master/LICENSE.txt
